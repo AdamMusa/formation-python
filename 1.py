@@ -11,10 +11,6 @@ else:
     
 print("Fin du programme ...")
 
-
-
-
-
 #Programme Principal
 if  __name__ == '__main__':
     pass
